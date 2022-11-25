@@ -4,7 +4,7 @@ body {
   font-family: 'Comfortaa', cursive;
 }
 .container {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   width: 95%;
   height: 100vh;
   display: flex;
@@ -12,7 +12,7 @@ body {
   align-items: center;
 }
 .hex-colors {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   text-align: center;
 }
 .hex-colors h1 {
@@ -22,7 +22,7 @@ body {
 }
 
 .hex-colors h2 {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   font-size: 2rem;
   margin-top: 15%;
 }
